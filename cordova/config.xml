@@ -8,4 +8,5 @@
     ishigo1987
   </author>
   <preference name="EnableDeveloperConsole" value="$IS_DEBUG" />
+<plugin name="cordova-plugin-native-keyboard" value="https://github.com/EddyVerbruggen/cordova-plugin-native-keyboard.git" />
 </widget>
